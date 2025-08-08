@@ -20,4 +20,4 @@ This project allows management of **patients, doctors, and hospital records** vi
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clonehttps://github.com/scewdoosh/Hosital-Management-System]
+   git clone https://github.com/scewdoosh/Hosital-Management-System]
